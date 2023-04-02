@@ -1,0 +1,138 @@
+.bloco1 {
+    background-color: #FA8072;
+    position: fixed;
+    height: 100%;
+    width: 400px;
+    bottom: 0px;
+    left:0px;
+    margin: 0;
+    padding: 0;
+
+
+}
+.foto-perfil {
+    position:relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 500px;
+    left: 120px;
+    top: 110px;
+    
+}
+
+.titulos {
+    color: white;
+    position:relative;
+    top: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+#sobre{
+    position: relative;
+    font-weight: bold;
+    font-size: 30px;
+    left: 160px;
+    
+}
+#conhecimentos{
+    position: relative;
+    font-weight: bold;
+    font-size: 20px;
+    left: 135px;
+}
+#objetivos{
+    position: relative;
+    font-weight: bold;
+    font-size: 20px;
+    left: 155px;
+}
+#nome{
+    color:#717D7E;
+    position: fixed;
+    font-size: 100px;
+    top: 60px;
+    left: 450px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+#sobrenome{
+    color: #FA8072;	
+    position: fixed;
+    font-size: 100px;
+    top: 60px;
+    left: 820px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+#rua{
+    color: #717D7E;	
+    position: fixed;
+    font-size: 20px;
+    top: 260px;
+    left: 455px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+#email{
+    color: #FA8072;	
+    position: fixed;
+    font-size: 20px;
+    top: 260px;
+    left: 950px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.descricao{
+    position: fixed;
+    color: #717D7E;
+    font-size: 15px;
+    top: 350px;
+    left: 455px;
+
+}
+
+#insta-logo{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    top: 500px;
+    left: 455px;
+}
+#face-logo{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    top: 500px;
+    left: 520px;
+}
+#linkedin-logo{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    top: 500px;
+    left: 585px;
+}
+.conhecimentos{
+    color:#717D7E;
+    position: fixed;
+    left: 450px;
+    font-size: 30px;
+    top:75px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#home{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    top: 10px;
+    left: 20px;
+}
+.bloco3{
+    color:#717D7E;
+    position: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    left:450px;
+    top:200px;
+    font-size: 20px;
+}
